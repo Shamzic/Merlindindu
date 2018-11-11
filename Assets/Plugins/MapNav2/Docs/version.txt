@@ -1,0 +1,28 @@
+
+Version 2.0.4
+
+- Added the NodeLink Tool - It allows you to add data to the link between two nodes. This could be used to create walls between nodes or even doors. See sample 6 and its scripts.
+- Added GetBorderNodes functions - Return a list of nodes that are considered to be on the border of a range of nodes that where provided. A border node is a node that is present in the list but for which one of its neighbour nodes are not in the list or is an invalid node.  This is useful when trying to find the border nodes for a range of valid nodes a unit can move to. See sample 5 and its scripts.
+- Changed the MapNav functions which returns nodes and node lists to be generic so that it is easier to work with when you are using custom nodes
+
+
+Version 2.0.3
+
+- Unity 5 compatibility update
+
+
+Version 2.0.2
+
+- Fixed error in Path() function. Non-Diag square maps where allowing diagonal movement.
+
+
+Version 2.0.1
+
+- Fixed error in Sample 2
+
+
+Version 2.0.0
+
+- Initial release of MapNav2
+
+

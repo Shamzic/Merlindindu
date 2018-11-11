@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4d32cf94c42b4ef43a47c673e83d2df4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cylinder_full_10
+    100002: cylinder_hollow_11
+    100004: cylinder_hollow_12
+    100006: cylinder_hollow_13
+    100008: cylinder_hollow_15
+    100010: cylinder_hollow_9
+    100012: detail_flagPoint%_2
+    100014: floor_square_1
+    100016: floor_square_24
+    100018: flower_beige1_16
+    100020: flower_blue3_20
+    100022: flower_red3_17
+    100024: grass_dense_18
+    100026: grass_dense_21
+    100028: grass_dense_22
+    100030: grass_dense_23
+    100032: grass_dense_25
+    100034: //RootNode
+    400000: cylinder_full_10
+    400002: cylinder_hollow_11
+    400004: cylinder_hollow_12
+    400006: cylinder_hollow_13
+    400008: cylinder_hollow_15
+    400010: cylinder_hollow_9
+    400012: detail_flagPoint%_2
+    400014: floor_square_1
+    400016: floor_square_24
+    400018: flower_beige1_16
+    400020: flower_blue3_20
+    400022: flower_red3_17
+    400024: grass_dense_18
+    400026: grass_dense_21
+    400028: grass_dense_22
+    400030: grass_dense_23
+    400032: grass_dense_25
+    400034: //RootNode
+    2100000: cylinder_full_10Mat
+    2100002: cylinder_hollow_11Mat
+    2100004: cylinder_hollow_12Mat
+    2100006: cylinder_hollow_13Mat
+    2100008: cylinder_hollow_15Mat
+    2100010: cylinder_hollow_9Mat
+    2100012: detail_flagPoint%_2Mat
+    2100014: floor_square_1Mat
+    2100016: floor_square_24Mat
+    2100018: flower_beige1_16Mat
+    2100020: flower_blue3_20Mat
+    2100022: flower_red3_17Mat
+    2100024: grass_dense_18Mat
+    2100026: grass_dense_21Mat
+    2100028: grass_dense_22Mat
+    2100030: grass_dense_23Mat
+    2100032: grass_dense_25Mat
+    2300000: cylinder_full_10
+    2300002: cylinder_hollow_11
+    2300004: cylinder_hollow_12
+    2300006: cylinder_hollow_13
+    2300008: cylinder_hollow_15
+    2300010: cylinder_hollow_9
+    2300012: detail_flagPoint%_2
+    2300014: floor_square_1
+    2300016: floor_square_24
+    2300018: flower_beige1_16
+    2300020: flower_blue3_20
+    2300022: flower_red3_17
+    2300024: grass_dense_18
+    2300026: grass_dense_21
+    2300028: grass_dense_22
+    2300030: grass_dense_23
+    2300032: grass_dense_25
+    3300000: cylinder_full_10
+    3300002: cylinder_hollow_11
+    3300004: cylinder_hollow_12
+    3300006: cylinder_hollow_13
+    3300008: cylinder_hollow_15
+    3300010: cylinder_hollow_9
+    3300012: detail_flagPoint%_2
+    3300014: floor_square_1
+    3300016: floor_square_24
+    3300018: flower_beige1_16
+    3300020: flower_blue3_20
+    3300022: flower_red3_17
+    3300024: grass_dense_18
+    3300026: grass_dense_21
+    3300028: grass_dense_22
+    3300030: grass_dense_23
+    3300032: grass_dense_25
+    4300000: cylinder_full_10
+    4300002: cylinder_hollow_11
+    4300004: cylinder_hollow_12
+    4300006: cylinder_hollow_13
+    4300008: cylinder_hollow_15
+    4300010: cylinder_hollow_9
+    4300012: detail_flagPoint%_2
+    4300014: floor_square_1
+    4300016: floor_square_24
+    4300018: flower_beige1_16
+    4300020: flower_blue3_20
+    4300022: flower_red3_17
+    4300024: grass_dense_18
+    4300026: grass_dense_21
+    4300028: grass_dense_22
+    4300030: grass_dense_23
+    4300032: grass_dense_25
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

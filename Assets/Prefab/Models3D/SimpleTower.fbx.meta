@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 2aae466daa633b14aaa2271c95409f1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: battlement_corner_39
+    100002: battlement_corner_40
+    100004: detail_bannerPoints%_41
+    100006: door_round_16
+    100008: floor_square_2
+    100010: floor_square_38
+    100012: //RootNode
+    100014: wall_border_25
+    100016: wall_border_26
+    100018: wall_doorwayRound_15
+    100020: wall_straight_10
+    100022: wall_straight_13
+    100024: wall_straight_33
+    400000: battlement_corner_39
+    400002: battlement_corner_40
+    400004: detail_bannerPoints%_41
+    400006: door_round_16
+    400008: floor_square_2
+    400010: floor_square_38
+    400012: //RootNode
+    400014: wall_border_25
+    400016: wall_border_26
+    400018: wall_doorwayRound_15
+    400020: wall_straight_10
+    400022: wall_straight_13
+    400024: wall_straight_33
+    2100000: stone
+    2100002: lightStone
+    2100004: wood
+    2100006: roof
+    2300000: battlement_corner_39
+    2300002: battlement_corner_40
+    2300004: detail_bannerPoints%_41
+    2300006: door_round_16
+    2300008: floor_square_2
+    2300010: floor_square_38
+    2300012: wall_border_25
+    2300014: wall_border_26
+    2300016: wall_doorwayRound_15
+    2300018: wall_straight_10
+    2300020: wall_straight_13
+    2300022: wall_straight_33
+    3300000: battlement_corner_39
+    3300002: battlement_corner_40
+    3300004: detail_bannerPoints%_41
+    3300006: door_round_16
+    3300008: floor_square_2
+    3300010: floor_square_38
+    3300012: wall_border_25
+    3300014: wall_border_26
+    3300016: wall_doorwayRound_15
+    3300018: wall_straight_10
+    3300020: wall_straight_13
+    3300022: wall_straight_33
+    4300000: floor_square_2
+    4300002: wall_straight_10
+    4300004: wall_straight_13
+    4300006: wall_doorwayRound_15
+    4300008: door_round_16
+    4300010: wall_border_25
+    4300012: wall_border_26
+    4300014: wall_straight_33
+    4300016: floor_square_38
+    4300018: battlement_corner_39
+    4300020: battlement_corner_40
+    4300022: detail_bannerPoints%_41
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

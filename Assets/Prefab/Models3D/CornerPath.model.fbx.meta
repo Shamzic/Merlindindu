@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: b820da147353bd84a93a7915af9ad00f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: roof_flat_corner_large_13
+    100004: roof_flat_corner_large_18
+    100006: roof_flat_corner_large_2
+    100008: roof_flat_corner_large_3
+    100010: roof_flat_corner_large_4
+    100012: roof_flat_corner_large_9
+    100014: roof_flat_corner_small_12
+    100016: roof_flat_corner_small_14
+    100018: roof_flat_corner_small_19
+    100020: roof_flat_corner_small_5
+    100022: roof_flat_corner_small_6
+    100024: roof_flat_corner_small_7
+    100026: roof_flat_corner_small_8
+    100028: roof_flat_largeCenter_15
+    100030: roof_flat_largeCenter_21
+    100032: roof_flat_largeCorner_10
+    100034: roof_flat_largeCorner_11
+    100036: roof_flat_round_16
+    100038: roof_flat_round_17
+    100040: roof_flat_round_20
+    400000: //RootNode
+    400002: roof_flat_corner_large_13
+    400004: roof_flat_corner_large_18
+    400006: roof_flat_corner_large_2
+    400008: roof_flat_corner_large_3
+    400010: roof_flat_corner_large_4
+    400012: roof_flat_corner_large_9
+    400014: roof_flat_corner_small_12
+    400016: roof_flat_corner_small_14
+    400018: roof_flat_corner_small_19
+    400020: roof_flat_corner_small_5
+    400022: roof_flat_corner_small_6
+    400024: roof_flat_corner_small_7
+    400026: roof_flat_corner_small_8
+    400028: roof_flat_largeCenter_15
+    400030: roof_flat_largeCenter_21
+    400032: roof_flat_largeCorner_10
+    400034: roof_flat_largeCorner_11
+    400036: roof_flat_round_16
+    400038: roof_flat_round_17
+    400040: roof_flat_round_20
+    2100000: border
+    2100002: bricks
+    2100004: customMaterial2
+    2300000: roof_flat_corner_large_13
+    2300002: roof_flat_corner_large_18
+    2300004: roof_flat_corner_large_2
+    2300006: roof_flat_corner_large_3
+    2300008: roof_flat_corner_large_4
+    2300010: roof_flat_corner_large_9
+    2300012: roof_flat_corner_small_12
+    2300014: roof_flat_corner_small_14
+    2300016: roof_flat_corner_small_19
+    2300018: roof_flat_corner_small_5
+    2300020: roof_flat_corner_small_6
+    2300022: roof_flat_corner_small_7
+    2300024: roof_flat_corner_small_8
+    2300026: roof_flat_largeCenter_15
+    2300028: roof_flat_largeCenter_21
+    2300030: roof_flat_largeCorner_10
+    2300032: roof_flat_largeCorner_11
+    2300034: roof_flat_round_16
+    2300036: roof_flat_round_17
+    2300038: roof_flat_round_20
+    3300000: roof_flat_corner_large_13
+    3300002: roof_flat_corner_large_18
+    3300004: roof_flat_corner_large_2
+    3300006: roof_flat_corner_large_3
+    3300008: roof_flat_corner_large_4
+    3300010: roof_flat_corner_large_9
+    3300012: roof_flat_corner_small_12
+    3300014: roof_flat_corner_small_14
+    3300016: roof_flat_corner_small_19
+    3300018: roof_flat_corner_small_5
+    3300020: roof_flat_corner_small_6
+    3300022: roof_flat_corner_small_7
+    3300024: roof_flat_corner_small_8
+    3300026: roof_flat_largeCenter_15
+    3300028: roof_flat_largeCenter_21
+    3300030: roof_flat_largeCorner_10
+    3300032: roof_flat_largeCorner_11
+    3300034: roof_flat_round_16
+    3300036: roof_flat_round_17
+    3300038: roof_flat_round_20
+    4300000: roof_flat_corner_large_2
+    4300002: roof_flat_corner_large_3
+    4300004: roof_flat_corner_large_4
+    4300006: roof_flat_corner_small_5
+    4300008: roof_flat_corner_small_6
+    4300010: roof_flat_corner_small_7
+    4300012: roof_flat_corner_small_8
+    4300014: roof_flat_corner_large_9
+    4300016: roof_flat_largeCorner_10
+    4300018: roof_flat_largeCorner_11
+    4300020: roof_flat_corner_small_12
+    4300022: roof_flat_corner_large_13
+    4300024: roof_flat_corner_small_14
+    4300026: roof_flat_largeCenter_15
+    4300028: roof_flat_round_16
+    4300030: roof_flat_round_17
+    4300032: roof_flat_corner_large_18
+    4300034: roof_flat_corner_small_19
+    4300036: roof_flat_round_20
+    4300038: roof_flat_largeCenter_21
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

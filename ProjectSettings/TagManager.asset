@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - light_night
+  - village
+  - pannel
+  - respawn
+  - Collect_gold
+  - Collect_wood
+  - Collect_stone
+  - pannel_Manage
   layers:
   - Default
   - TransparentFX
@@ -15,7 +23,7 @@ TagManager:
   - 
   - PostProcessing
   - 
-  - 
+  - Village
   - 
   - 
   - 
