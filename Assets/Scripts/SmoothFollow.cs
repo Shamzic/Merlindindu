@@ -26,7 +26,7 @@ namespace UnityStandardAssets.Utility
             Vector3 newPosition = target.position;
             newPosition.y = height;
             newPosition.x += xpos;
-            newPosition.z += zpos;
+            newPosition.z += zpos-15;
             transform.position = newPosition;
         
             if (height <= maxHeight && height >= minHeight) height -= 5*Input.GetAxis("Mouse ScrollWheel");
