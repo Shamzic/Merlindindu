@@ -136,7 +136,10 @@ public class MySquareMap : MapNavSquare
                                         Debug.Log("Click gauche sur la map");
                                         Vector3 position = hit.transform.position;
                                         if (!isNodeAlreadyOccuped())
+                                        {
                                             addBuildingToScene(position);
+                                            alreadyOccupedCells.Add(selectedNode);
+                                        }
                                         else
                                             Debug.Log("Cell occuped");
                                     }
